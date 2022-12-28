@@ -15,6 +15,11 @@ In this project, I modify BERT4REC to make it working as a regression model soth
 ```
 python main.py --data_dir "../data" --batch_size 256 --epoch_size 7
 ```
+# References
+
+- https://arxiv.org/abs/1904.06690
+- https://keras.io/examples/structured_data/movielens_recommendations_transformers/
+
 
 
 
