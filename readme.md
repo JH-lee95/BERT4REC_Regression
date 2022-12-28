@@ -7,6 +7,9 @@ In this project, I modify BERT4REC to make it working as a regression model soth
 
 ![image](https://user-images.githubusercontent.com/63226383/209775077-6d2d2df9-8696-42a7-b59e-8bf702df34d3.png)
 
+![image](https://user-images.githubusercontent.com/63226383/209777050-e08695b0-b8b3-4729-822d-e6efca581ef7.png)
+
+
 
 # Quick Start
 ```
